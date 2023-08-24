@@ -6,7 +6,7 @@ import authService from "../services/AuthService.js";
 Vue.use(Vuex);
 
 /*
- *Adding dummy data
+ *Adding dummy data and even more!
  */
 
 /*
